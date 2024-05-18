@@ -1,13 +1,13 @@
 This is an Open Source Public Domain Project for developing free 3D printed miniatures with a World War One Sci-fi Theme.
 
-
+_______________________________
 Main Goal
 _______________________________
 
 The main directive is cultivating a library of .STL files that people can create miniatures at home with the help of a 3D printer.
 These files are provided for free and can be used for any and all purposes. There are no limitations to their usage indicated by the CC-0 license.
 
-
+_______________________________
 Software
 _______________________________
 
@@ -21,7 +21,7 @@ https://mango3d.io/downloads/
 
 Anyone is free to use the source files to create variations of the model and publish them to the repository.
 
-
+_______________________________
 Presupports
 _______________________________
 Preferably all contributed .STL files comes with a presupported file to save end users time and effort of having to support the files manually themselves.
